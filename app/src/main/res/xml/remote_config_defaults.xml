@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>favorites_enabled</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>taco_list_columns_experiment</key>
+        <value>control</value>
+    </entry>
+</defaultsMap>

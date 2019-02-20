@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230273920933",
+    "firebase_url": "https://wikitaco-7fa9a.firebaseio.com",
+    "project_id": "wikitaco-7fa9a",
+    "storage_bucket": "wikitaco-7fa9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230273920933:android:f2ea4547fa00f17c",
+        "android_client_info": {
+          "package_name": "com.wikitaco.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230273920933-2o3avun4ehhjrslov881vb3cmdu21vvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wikitaco.demo",
+            "certificate_hash": "3b2dac514de1288cde28943af6fe4ef9a95cce77"
+          }
+        },
+        {
+          "client_id": "230273920933-s68as4a5vq2nkglng3rmqnu3na6s7ifa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfG1uBAYgyeWHVC3GJetxaXgbU-QNQxaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230273920933-s68as4a5vq2nkglng3rmqnu3na6s7ifa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
